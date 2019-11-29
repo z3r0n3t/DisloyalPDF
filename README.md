@@ -1,5 +1,5 @@
 # DisloyalPDF
-  Adobe Reader is infamous for many of the exploits found within it. Well here is a example of one of the more famous exploits. It takes both an exe and a PDF and binds the files together so when the target runs the file it will run the exe.
+  Adobe Reader is infamous for many of the exploits found within it. Well here is a example of one of the more famous exploits. It takes both an exe and a PDF and binds the files together so when the target runs the file it will run the exe. Original credit goes to the team over at metasploit, I just spiced it up, changed the version of python and made it more user friendly. CVE-2010-2883
   ![DisloyalPDF](https://github.com/Xerox00/DisloyalPDF/blob/master/PDF.png)
   
  ## Setup
