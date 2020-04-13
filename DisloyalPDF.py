@@ -10019,12 +10019,14 @@ banner = ("""
  '''''''''''''''''';''';''''''''''''''''''
                     '''
                     - AdobeExploitBuilder
-                    	- Adapted by Xerox00
+                    	- Adapted by zeronet
+"if you want pice prepare for war "
+
 	""")
 
 print(Fore.RED + banner)
-file = input(Fore.GREEN + "Please enter the target pdf: ")
-exe_embed = input(Fore.GREEN + "Please enter path of exe: ")
+file = input(Fore.GREEN + "enter the target pdf: ")
+exe_embed = input(Fore.GREEN + "enter path to exe: ")
 
 #################################################################################
 def progressbar(it, prefix="", size=60, file=sys.stdout):
